@@ -1,6 +1,6 @@
 {
-  "name": "fa-gateway-lib",
-  "version": "1.1.0",
+  "name": "simplepacket",
+  "version": "1.1.1",
   "main": "index.js",
   "license": "MIT",
   "gypfile": true,

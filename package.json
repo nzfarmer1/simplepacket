@@ -1,0 +1,12 @@
+{
+  "name": "fa-gateway-lib",
+  "version": "1.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "gypfile": true,
+  "dependencies": {
+    "readable-stream": "^2.0.2",
+    "bindings": "~1.2.1",
+    "through2": "^2.0.1"
+  }
+}
